@@ -3,20 +3,72 @@
     {
       "segments": [
         {
-          "text": "I've",
+          "text": "Lyssna",
           "keys": [
             {
-              "offset": 2,
-              "length": 10
+              "offset": 0,
+              "value": 0.0
+            },
+            {
+              "offset": 200,
+              "value": 1.0
+            },
+            {
+              "offset": 400,
+              "value": 1.0
+            },
+            {
+              "offset": 600,
+              "value": 0.0
             }
           ]
         },
         {
-          "text": "tried",
+          "text": "inte",
+          "keys": [
+            {
+              "offset": 200,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "på",
           "keys": [
             {
               "offset": 4,
-              "length": 10
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "mig",
+          "keys": [
+            {
+              "offset": 4,
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Jag",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "har",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
             }
           ]
         }
