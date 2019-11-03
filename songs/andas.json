@@ -1,0 +1,278 @@
+{
+  "meta" : {
+    "total_length": 237,
+    "total_offset": 0
+  },
+  "lines": [
+    {
+      "segments": [
+        {
+          "text": "Lyssna",
+          "keys": [
+            {
+              "offset": 0,
+              "value": 0.0
+            },
+            {
+              "offset": 650,
+              "value": 1.0
+            },
+            {
+              "offset": 700,
+              "value": 0.5
+            },
+            {
+              "offset": 800,
+              "value": 0.5
+            },
+            {
+              "offset": 850,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "text": "inte",
+          "keys": [
+            {
+              "offset": 650,
+              "value": 0.0
+            },
+            {
+              "offset": 700,
+              "value": 1.0
+            },
+            {
+              "offset": 750,
+              "value": 1.0
+            },
+            {
+              "offset": 800,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "text": "på",
+          "keys": [
+            {
+              "offset": 650,
+              "value": 0.0
+            },
+            {
+              "offset": 700,
+              "value": 1.0
+            },
+            {
+              "offset": 750,
+              "value": 1.0
+            },
+            {
+              "offset": 800,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "text": "mig",
+          "keys": [
+            {
+              "offset": 650,
+              "value": 0.0
+            },
+            {
+              "offset": 700,
+              "value": 1.0
+            },
+            {
+              "offset": 750,
+              "value": 1.0
+            },
+            {
+              "offset": 800,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Jag",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "har",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "tagit",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "allt",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "för",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "givet",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "jag",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "bara",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "faller",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Sen",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "så",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "fort",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "hitta",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "ord,",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "jag",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "måste",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "blunda",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "text": "lite,",
+          "keys": [
+            {
+              "offset": 2,
+              "value": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
