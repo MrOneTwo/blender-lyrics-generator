@@ -1,0 +1,26 @@
+{
+  "lines": [
+    {
+      "segments": [
+        {
+          "text": "I've",
+          "keys": [
+            {
+              "offset": 2,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "text": "tried",
+          "keys": [
+            {
+              "offset": 4,
+              "length": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
