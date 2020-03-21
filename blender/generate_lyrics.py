@@ -15,7 +15,7 @@ Tested in Blender 2.8. Check `example.json` for the input data format.
 """
 
 # Load the JSON describing the lyrics.
-SCRIPT_PATH = Path(__file__).resolve().parent
+SCRIPT_PATH = Path(bpy.context.space_data.text.filepath).parent
 LYRICS_FILE_DATA = (SCRIPT_PATH / Path("example.json")).read_text()
 LYRICS = json.loads(LYRICS_FILE_DATA)
 
