@@ -111,7 +111,7 @@ def get_text_object(idx: int, segment: dict, position: tuple = (0.0, 0.0, 0.0)):
     for k in segment["keys"]:
         alpha_node.outputs[0].default_value = k["value"]
         alpha_node.outputs[0].keyframe_insert(
-            data_path="default_value", frame=math.floor(k["offset"] * FPS / 100.0)
+            data_path="default_value", frame=math.floor(float(k["offset"]) * FPS / 100.0)
         )
     return (obj, obj.dimensions)
 
