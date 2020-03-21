@@ -27,3 +27,5 @@ for l in lines:
 
 print(json.dumps(output, indent=2))
 
+with open(Path(input_file.parent) / Path(input_file.stem + ".json"), 'w') as output_file:
+  output_file.write(json.dumps(output, indent=2))

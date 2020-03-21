@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "total_length": 0,
+    "total_offset": 0
+  },
+  "lines": [
+    {
+      "segments": [
+        {
+          "text": "What",
+          "keys": [
+            {
+              "offset": "0.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "if",
+          "keys": [
+            {
+              "offset": "0.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "keys": [
+            {
+              "offset": "0.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "have",
+          "keys": [
+            {
+              "offset": "0.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "never",
+          "keys": [
+            {
+              "offset": "0.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "did",
+          "keys": [
+            {
+              "offset": "0.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "anything",
+          "keys": [
+            {
+              "offset": "0.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "wrong...?",
+          "keys": [
+            {
+              "offset": "0.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Sounds",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "hippy",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "I",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "know!",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": []
+    }
+  ]
+}
