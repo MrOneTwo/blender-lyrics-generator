@@ -7,73 +7,46 @@
     {
       "segments": [
         {
-          "text": "What",
+          "text": "Well",
           "keys": [
             {
-              "offset": "0.0",
+              "offset": "1.0",
               "value": 1
             }
           ]
         },
         {
-          "text": "if",
+          "text": "this",
           "keys": [
             {
-              "offset": "0.0",
+              "offset": "1.0",
               "value": 1
             }
           ]
         },
         {
-          "text": "you",
+          "text": "is",
           "keys": [
             {
-              "offset": "0.0",
+              "offset": "1.0",
               "value": 1
             }
           ]
         },
         {
-          "text": "have",
+          "text": "a",
           "keys": [
             {
-              "offset": "0.0",
+              "offset": "1.0",
               "value": 1
             }
           ]
         },
         {
-          "text": "never",
+          "text": "mess...",
           "keys": [
             {
-              "offset": "0.0",
-              "value": 1
-            }
-          ]
-        },
-        {
-          "text": "did",
-          "keys": [
-            {
-              "offset": "0.0",
-              "value": 1
-            }
-          ]
-        },
-        {
-          "text": "anything",
-          "keys": [
-            {
-              "offset": "0.0",
-              "value": 1
-            }
-          ]
-        },
-        {
-          "text": "wrong...?",
-          "keys": [
-            {
-              "offset": "0.0",
+              "offset": "1.0",
               "value": 1
             }
           ]
@@ -83,7 +56,7 @@
     {
       "segments": [
         {
-          "text": "Sounds",
+          "text": "Sorry...",
           "keys": [
             {
               "offset": "2.0",
@@ -92,7 +65,7 @@
           ]
         },
         {
-          "text": "hippy",
+          "text": "Don't",
           "keys": [
             {
               "offset": "2.0",
@@ -101,7 +74,7 @@
           ]
         },
         {
-          "text": ".",
+          "text": "want",
           "keys": [
             {
               "offset": "2.0",
@@ -110,7 +83,7 @@
           ]
         },
         {
-          "text": ".",
+          "text": "to",
           "keys": [
             {
               "offset": "2.0",
@@ -119,10 +92,41 @@
           ]
         },
         {
-          "text": ".",
+          "text": "bum",
           "keys": [
             {
               "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "people",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "out...",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Guess",
+          "keys": [
+            {
+              "offset": "3.0",
               "value": 1
             }
           ]
@@ -131,16 +135,668 @@
           "text": "I",
           "keys": [
             {
-              "offset": "2.0",
+              "offset": "3.0",
               "value": 1
             }
           ]
         },
         {
-          "text": "know!",
+          "text": "will.",
           "keys": [
             {
-              "offset": "2.0",
+              "offset": "3.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "In",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "this",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "whole",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "situation",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "systems",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "fail.",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Maybe",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "it's",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "naive",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "expect",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "any",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "system",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "handle",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "situation",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "like",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "this",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "one.",
+          "keys": [
+            {
+              "offset": "5.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Everything",
+          "keys": [
+            {
+              "offset": "6.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "seems",
+          "keys": [
+            {
+              "offset": "6.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "so",
+          "keys": [
+            {
+              "offset": "6.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "fragile.",
+          "keys": [
+            {
+              "offset": "6.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Few",
+          "keys": [
+            {
+              "offset": "7.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "weeks",
+          "keys": [
+            {
+              "offset": "7.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "keys": [
+            {
+              "offset": "7.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "and",
+          "keys": [
+            {
+              "offset": "7.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "economy",
+          "keys": [
+            {
+              "offset": "7.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "is",
+          "keys": [
+            {
+              "offset": "7.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "falling",
+          "keys": [
+            {
+              "offset": "7.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "apart.",
+          "keys": [
+            {
+              "offset": "7.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Would",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "nice",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "if",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "something",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "changed.",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Would",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "be",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "nice",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "if",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "we",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "actually",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "learn",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "something.",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Didn't",
+          "keys": [
+            {
+              "offset": "10.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "we",
+          "keys": [
+            {
+              "offset": "10.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "build",
+          "keys": [
+            {
+              "offset": "10.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "all",
+          "keys": [
+            {
+              "offset": "10.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "those",
+          "keys": [
+            {
+              "offset": "10.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "systems",
+          "keys": [
+            {
+              "offset": "10.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "to",
+          "keys": [
+            {
+              "offset": "10.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "protect",
+          "keys": [
+            {
+              "offset": "10.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "ourselves?",
+          "keys": [
+            {
+              "offset": "10.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Yet",
+          "keys": [
+            {
+              "offset": "11.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "here",
+          "keys": [
+            {
+              "offset": "11.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "we",
+          "keys": [
+            {
+              "offset": "11.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "are.",
+          "keys": [
+            {
+              "offset": "11.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Scared.",
+          "keys": [
+            {
+              "offset": "12.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Scared",
+          "keys": [
+            {
+              "offset": "12.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "keys": [
+            {
+              "offset": "12.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "those",
+          "keys": [
+            {
+              "offset": "12.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "systems",
+          "keys": [
+            {
+              "offset": "12.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "that",
+          "keys": [
+            {
+              "offset": "12.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "are",
+          "keys": [
+            {
+              "offset": "12.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "happily",
+          "keys": [
+            {
+              "offset": "12.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "consuming",
+          "keys": [
+            {
+              "offset": "12.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "us...",
+          "keys": [
+            {
+              "offset": "12.0",
               "value": 1
             }
           ]
