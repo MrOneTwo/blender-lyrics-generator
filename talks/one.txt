@@ -1,2 +1,13 @@
-0.0;What;if;you;have;never;did;anything;wrong...?
-2.0;Sounds;hippy;.;.;.;I;know!
+1.0;Well;this;is;a;mess...
+2.0;Sorry...;Don't;want;to;bum;people;out...
+3.0;Guess;I;will.
+4.0;In;this;whole;situation;systems;fail.
+5.0;Maybe;it's;naive;to;expect;any;system;to;handle;situation;like;this;one.
+6.0;Everything;seems;so;fragile.
+7.0;Few;weeks;in;and;economy;is;falling;apart.
+8.0;Would;be;nice;if;something;changed.
+9.0;Would;be;nice;if;we;actually;learn;something.
+10.0;Didn't;we;build;all;those;systems;to;protect;ourselves?
+11.0;Yet;here;we;are.
+12.0;Scared.
+12.0;Scared;of;those;systems;that;are;happily;consuming;us...
