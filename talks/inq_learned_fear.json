@@ -1,0 +1,386 @@
+{
+  "meta": {
+    "total_length": 0,
+    "total_offset": 0
+  },
+  "lines": [
+    {
+      "segments": [
+        {
+          "text": "You",
+          "keys": [
+            {
+              "offset": "1.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "have",
+          "keys": [
+            {
+              "offset": "1.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "a",
+          "keys": [
+            {
+              "offset": "1.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "voice",
+          "keys": [
+            {
+              "offset": "1.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "!",
+          "keys": [
+            {
+              "offset": "1.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Does",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "it",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "haunt",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "in",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "the",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "dead",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "night",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "?",
+          "keys": [
+            {
+              "offset": "2.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Would",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "fly",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "if",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "weren't",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "convinced",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "you're",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "afraid",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "of",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "heights",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "?",
+          "keys": [
+            {
+              "offset": "4.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "And",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "who",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "convinced",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "you",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "anyway",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "?",
+          "keys": [
+            {
+              "offset": "8.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "They",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "had",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "NO",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "fucking",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "text": "right!",
+          "keys": [
+            {
+              "offset": "9.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "text": "Right?",
+          "keys": [
+            {
+              "offset": "11.0",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "segments": []
+    }
+  ]
+}
